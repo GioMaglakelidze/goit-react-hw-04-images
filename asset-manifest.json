@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GioMaglakelidze/goit-react-hw-04-images/static/css/main.df59c48f.css",
+    "main.js": "/GioMaglakelidze/goit-react-hw-04-images/static/js/main.857c8275.js",
+    "index.html": "/GioMaglakelidze/goit-react-hw-04-images/index.html",
+    "main.df59c48f.css.map": "/GioMaglakelidze/goit-react-hw-04-images/static/css/main.df59c48f.css.map",
+    "main.857c8275.js.map": "/GioMaglakelidze/goit-react-hw-04-images/static/js/main.857c8275.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df59c48f.css",
+    "static/js/main.857c8275.js"
+  ]
+}
